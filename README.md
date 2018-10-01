@@ -8,6 +8,10 @@ that fits you best.
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
 application that you can use as the skeleton for your new applications.
 
+la page d'accueil est http://127.0.0.1:8000/blog/message
+mettre les champs dans la table categorie
+
+
 For details on how to download and get started with Symfony, see the
 [Installation][1] chapter of the Symfony Documentation.
 
